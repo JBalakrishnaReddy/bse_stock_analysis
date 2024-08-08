@@ -1,0 +1,12 @@
+{
+    "headers":"{'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}",
+    "url_results_calendar":"https://www.bseindia.com/corporates/Forth_Results.html",
+    "Bhav_copy":{
+        "url":"https://www.bseindia.com/markets/marketinfo/BhavCopy.aspx",
+        "html_id":"ContentPlaceHolder1_btnHyEqudiff"
+    },
+    "bhav_copy_page_url":"https://www.bseindia.com/markets/marketinfo/BhavCopy.aspx",
+    "company_corporate_announcements_link":"https://www.bseindia.com/stock-share-price/-/-/{0}/corp-announcements/",
+    "all_corporate_announcements_link":"https://www.bseindia.com/corporates/ann.html"
+
+}
